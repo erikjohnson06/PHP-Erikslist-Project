@@ -1,0 +1,13 @@
+You have received a recommendation from an Erik's List member: <br/><br/>
+
+<b>#PRODUCT_NAME#</b> <br/><br/>
+ 
+Sender information:
+<table>
+<tr><td align="right">Email: </td><td>#EMAIL#</td></tr>
+<tr><td align="right">Message: </td><td>#MESSAGE#</td></tr>
+</table>
+
+<br/><br/>You may view the details of this post at:
+
+http://ejohnson4.userworld.com/erikslist/catalog.php?product_id=#PRODUCT_ID#

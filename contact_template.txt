@@ -1,0 +1,14 @@
+You have received correspondence from an Erik's List member regarding your post: <br/><br/>
+
+<b>#PRODUCT_NAME#</b> (product ID: #PRODUCT_ID# )<br/><br/>
+ 
+Member contact information:
+<table>
+<tr><td align="right">Username: </td><td>#USERNAME#</td></tr>
+<tr><td align="right">Member ID: </td><td>#SENDER_ID#</td></tr>
+<tr><td align="right">Email: </td><td>#EMAIL#</td></tr>
+<tr><td align="right">Message: </td><td>#MESSAGE#</td></tr>
+</table>
+
+<br/><br/>You may respond directly to the member at their registered email address listed above. 
+Please mark the item as "sold" in your profile home page once the transaction has occured. 
